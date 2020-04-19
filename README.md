@@ -1,0 +1,2 @@
+# house_rate_prediction
+This project uses different prediction techniques like linear regression,Decision Tree and Random forest and predict the future rate of the house using the best fitted algorithm having least RMSE error(i.e. random forest).Stratified sampling,Correlation Coefficient, imputer class,Feature scaling, sklearn  and Cross-Validation are also some of the features used in this project 
